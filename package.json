@@ -1,0 +1,27 @@
+{
+  "name": "advanced-weather-app",
+  "version": "1.0.0",
+  "description": "An advanced Weather app being built using JS",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjun069/Advanced-Weather-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arjun069/Advanced-Weather-App/issues"
+  },
+  "homepage": "https://github.com/arjun069/Advanced-Weather-App#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.0.0",
+    "nodemon": "^1.19.1"
+  }
+}
